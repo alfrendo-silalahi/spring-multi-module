@@ -1,0 +1,58 @@
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# Build output
+/build
+/target
+
+# Dependency directories
+/lib
+/libs
+
+# IDE-specific files
+.idea
+.metadata
+.project
+.classpath
+.settings
+
+# Test results
+/test-results
+
+# Generated files
+/generated-sources
+
+# Local configuration
+*.tmp
+*.swp
+*.bak
+*.sync
+*.orig
+*~
+
+# Gradle specific files
+.gradle
+build/
+outputs/
+
+# IntelliJ IDEA specific files
+.idea/workspace.xml
+.idea/libraries
+
+# VS Code specific files
+.vscode/
+
+# Local history
+.localhistory
+
+# Docker files
+Dockerfile*
+docker-compose.yml
+
+# Other
+*.jar
+*.war
+*.ear
